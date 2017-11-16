@@ -11,11 +11,21 @@
   },
   "devDependencies": {
     "axios": "^0.16.2",
-    "bootstrap-sass": "^3.3.7",
+    "buefy": "^0.5.4",
     "cross-env": "^5.0.1",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.1.1",
     "laravel-mix": "^1.0",
     "lodash": "^4.17.4",
-    "vue": "^2.1.10"
-  }
+    "slug": "^0.9.1",
+    "vue": "^2.1.10",
+    "vue-update": "^1.0.6"
+  },
+  "name": "ksvrhospital",
+  "version": "1.0.0",
+  "description": "Web site Krit Siwara Hospital.",
+  "main": "index.js",
+  "repository": "https://github.com/dekseed/ksvrhospital.git",
+  "author": "dekseed3@gmail.com",
+  "license": "MIT"
 }
